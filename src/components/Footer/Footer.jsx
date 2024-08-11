@@ -13,14 +13,14 @@ const Footer = () => {
     {
       name: "LinkedIn",
       icon: linkedin,
-      link: "https://www.linkedin.com/in/namay-gupta/",
+      link: "https://www.linkedin.com/in/araayanbharti/",
     },
-    { name: "GitHub", icon: github, link: "https://github.com/namay10" },
-    {
-      name: "Portfolio",
-      icon: portfolio,
-      link: "https://portfolio-self-nu-28.vercel.app/",
-    },
+    { name: "GitHub", icon: github, link: "https://github.com/arayanbharti" },
+    // {
+    //   name: "Portfolio",
+    //   icon: portfolio,
+    //   link: "https://portfolio-self-nu-28.vercel.app/",
+    // },
   ];
 
   return (
@@ -55,7 +55,7 @@ const Footer = () => {
       </nav>
 
       <p className="text-center mt-4 lg:mt-0 text-sm">
-        &copy; Namay Gupta
+        &copy; Aryan Bharti
       </p>
     </footer>
   );
