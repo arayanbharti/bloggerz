@@ -22,7 +22,7 @@ const Footer = () => {
     //   link: "https://portfolio-self-nu-28.vercel.app/",
     // },
   ];
-
+//added links
   return (
     <footer className="mt-auto text-black relative  overflow-hidden bg-primary-color px-10  py-6 flex flex-wrap justify-between items-center">
       <div className="flex items-center">
